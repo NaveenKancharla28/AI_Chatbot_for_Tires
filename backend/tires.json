@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "brand": "Goodyear",
+    "size": "225/65R17",
+    "type": "All-Season",
+    "carModel": "Ford Explorer",
+    "price": 120,
+    "image": "https://example.com/goodyear.jpg"
+  },
+  {
+    "id": "2",
+    "brand": "Michelin",
+    "size": "205/55R16",
+    "type": "Performance",
+    "carModel": "Honda Civic",
+    "price": 140,
+    "image": "https://example.com/michelin.jpg"
+  }
+]

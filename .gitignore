@@ -1,0 +1,33 @@
+# === Node.js ===
+node_modules/
+package-lock.json
+.env
+.env.*
+
+# === Logs ===
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# === macOS / IDE stuff ===
+.DS_Store
+.vscode/
+
+# === Build files ===
+dist/
+build/
+coverage/
+.next/
+out/
+
+# === Frontend Specific ===
+frontend/node_modules/
+frontend/.env
+frontend/.env.*
+
+# === Backend Specific ===
+backend/node_modules/
+backend/.env
+backend/.env.*

@@ -1,0 +1,17 @@
+[
+  {
+    "brand": "Michelin",
+    "size": "205/55R16",
+    "image": "https://cdn.discounttire.com/sys-master/images/h98/h69/9998287110174/mmid2_ang_l.jpg"
+  },
+  {
+    "brand": "Goodyear",
+    "size": "195/65R15",
+    "image": "https://cdn.discounttire.com/sys-master/images/h17/hef/8895002181662/gdyrl8_ang_l.jpg"
+  },
+  {
+    "brand": "Continental",
+    "size": "225/45R17",
+    "image": "https://cdn.discounttire.com/sys-master/images/hac/h9b/9510894895134/conhhp_ang_l.jpg"
+  }
+]
